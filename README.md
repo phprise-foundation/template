@@ -1,5 +1,9 @@
 # PHPRise <Repository>
 
+> [!WARNING]
+> **Deprecated — no longer maintained.** This repository will be archived.
+> Start new repositories from [`otaku/atomic`](https://github.com/phprise-foundation/otaku-atomic), [`otaku/assembly`](https://github.com/phprise-foundation/otaku-assembly) or [`otaku/application`](https://github.com/phprise-foundation/otaku-application).
+
 <Description Of Repository>
 
 ## Installation
